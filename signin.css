@@ -1,0 +1,107 @@
+body{
+    background-color: #101012;
+    font-family: Calibri;
+}
+img{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.logo{
+    width: 200px;
+}
+.container{
+    width: 30%;
+    margin-left: 35%;
+}
+.header{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.input{
+    height: 55px;
+    width: 100%;
+    border-radius: 5px;
+    border-color: none;
+    border-style: none;
+    font-size: 20px;
+    background-color: #343434;
+    margin-bottom: 20px;
+}
+.input:hover{
+    background-color: black;
+}
+.input:focus{
+    background-color: yellow;
+}
+.button{
+    width: 100%;
+    height: 55px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 5%;
+    border-color: none;
+    border-style: none;
+}
+.remember{
+    width: 20px;
+    height: 20px;
+}
+.remember-label{
+    color: white;
+}
+.remember-parent{
+    display: flex;
+}
+.remember-child-one{
+    width: 30%;
+}
+.remember-child-two{
+    color: white;
+    text-align: right;
+    width: 70%;
+}
+.help{
+    margin-top: 2px;
+}
+.signup{
+    color: white;
+}
+.footer{
+    display: flex;
+    color: white;
+    width: 70%;
+    height: 100px;
+    margin-left: 22%;
+}
+.footer-child-one{
+    width: 20%;
+    background-color: green;
+}
+.footer-child-two{
+    width: 20%;
+    background-color: blue;
+    margin-top: 60px;
+}
+.footer-child-three{
+    width: 20%;
+    background-color: brown;
+    margin-top: 60px;
+}
+.footer-child-four{
+    width: 20%;    
+    background-color: aqua;
+    margin-top: 60px;
+}
+.footer-child-one-one{
+    margin-bottom: 10px;
+}
+.footer-child-two-onw{
+    margin-bottom: 10px;
+}
